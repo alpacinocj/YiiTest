@@ -1,0 +1,12 @@
+{
+  "name": "Apidoc Example",
+  "version": "1.0.0",
+  "description": "How to use apiDoc",
+  "title": "Apidoc Example",
+  "url": "http://yiitest.api.com",
+  "sampleUrl": "http://yiitest.api.com/sample",
+  "order": [
+    "UserGroup",
+    "OrderGroup"
+  ]
+}
